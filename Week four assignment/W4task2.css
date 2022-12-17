@@ -1,0 +1,13 @@
+img{
+    background-size: auto;
+    background-position: center;
+    width: fit-content;
+    height: fit-content;
+}
+p{
+    font-family: cursive;
+    font-size: medium;
+    color: indigo;
+    background-color: azure;
+    font-weight: normal;
+}
