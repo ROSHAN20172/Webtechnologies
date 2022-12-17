@@ -1,0 +1,36 @@
+h1{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: normal;
+    color: brown;
+    background-color: azure;
+}
+h2{
+    font-weight: bold;
+    font-size: x-large;
+    font-style: normal;
+    color: darkblue;
+    background-color: wheat; 
+}
+h2:hover{
+    color: red;
+    background-color: beige;
+}
+h3{
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+    color: green;
+    background-color: gold; 
+}
+body{
+    background-color: aliceblue;
+}
+ol{
+    font-style: italic;
+    color: darkred;
+}
+nav{
+    color: springgreen;
+    
+}
