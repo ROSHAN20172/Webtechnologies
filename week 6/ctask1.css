@@ -1,0 +1,23 @@
+header, footer{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    height: 200px;
+    text-align: center;
+    font-size: 50px;
+}
+#Cont{
+    background-color: brown;
+    text-align: center;
+    height: auto;
+    flex: 3;
+}
+#Side{
+    background-color: beige;
+    text-align: center;
+    flex:1;
+}
+section{
+    display: flex;
+    height: 200px;
+}

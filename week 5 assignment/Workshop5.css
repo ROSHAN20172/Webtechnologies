@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0%;
+}
+
+.First {
+    background-color: red;
+}
+
+.First .conatiner {
+    background-color: red;
+}
+
+.First .venue {
+    margin: 275px 20px 10px 40px;
+}
+
+.First h1 {
+    font-size: 72px;
+    margin: 0px 0px 0px 70px;
+    width: fit-content;
+    color: black;
+} 
+
+.First h3 {
+    margin: 0px 0px 0px 70px;
+    font-size: 25px;
+    color: black;   
+}
+
+.First img {
+    float: right;
+  margin: 0 0 300 0;
+  width: 40%;
+  height: 620px;
+}
+
+.First .cont {
+    text-align: right;
+}
+
+.First input {
+    margin: 30px 0px 80px 70px;
+    font-size: 25px;
+    background-color: pink;
+    color: black ;
+    font-weight: bold;
+    border-radius: 50px;
+}
+
+.First p {
+    margin-left: 30px;
+    font-size: 30px;
+    color: black;
+}
+
+.Second {
+    background-color: aqua;
+}
+
+.Second h1 {
+    font-size: 79px;
+ max-width: 45%;
+    float: left;
+    margin: 5% 0% 5% 5%; 
+    color: black;
+}
+
+.Second h3 {
+    font-size:20px ;
+    float: right;
+    max-width: 25%;
+     margin: 7% 21% 0% 0%; 
+     color: black;
+}
+
+.Second img {
+    width: 90%; 
+    text-align: center;
+    margin: 10px 70px 30px 70px ;
+    height: 300px;
+}
