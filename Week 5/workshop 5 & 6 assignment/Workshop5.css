@@ -80,3 +80,81 @@
     margin: 10px 70px 30px 70px ;
     height: 300px;
 }
+
+
+.third{
+    background-color: pink;
+}
+
+.third h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.third .oney{
+    margin-left: 80px;
+    display: flex;
+} 
+
+
+.fourth{
+    background-color: orange;
+}
+
+.Fourth img{
+    float: left;
+    width: 50%;
+    height: 415px;
+    margin-left: 5%;
+}
+
+.fourth h1{
+    font-size: 72px;
+    color: antiquewhite;
+    margin: 0px 50px 170px 850px;
+}
+
+.fourth p{
+    padding-bottom: 30px;
+    font-size: 20px;
+    color: lightcyan;
+    margin: 0px 0px 40px 880px;
+}
+
+
+.fifth{
+    background-color: lightgreen;
+}
+
+.fifth img{
+    float: right;
+    height: 400px;
+}
+
+.fifth h1{
+    float: left;
+    font-size: 72px;
+    color: linen;
+    padding-left: 5%;
+}
+
+.fifth .firstly{
+    color: linen;
+    margin: 0px 0px 50px 70px;
+    font-size: 20px;
+}
+
+.fifth .secondly{
+    color: linen;
+    margin: 0px 0px 50px 70px;
+    font-size: 20px;
+}
+
+.fifth input{
+    margin: 30px 0px 10px 70px;
+    font-size: 25px;
+    background-color: orangered;
+    color: darkblue;
+    font-weight: bold;
+    border-radius: 50px;
+}
